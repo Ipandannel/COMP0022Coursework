@@ -21,7 +21,7 @@ application-1  | 🎉 Data import process completed!
 application-1  | 📥 Data import complete.
 application-1  | 🚀 Starting Flask application...
 
-📚 Project Overview
+##📚 Project Overview
 This application showcases:
 Interactive movie dashboards 📽️
 Genre popularity & audience ratings analytics 📊
