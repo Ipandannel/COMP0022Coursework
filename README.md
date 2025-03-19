@@ -15,12 +15,11 @@ Welcome to the **COMP0022 Coursework** Web Application!
 > This initial setup takes approximately **25 minutes**.
 
 Please wait until you see the following confirmation in your terminal:
-
-```markdown
-    application-1  | 🎉 Data import process completed!
-    application-1  | 📥 Data import complete.
-    application-1  | 🚀 Starting Flask application...
-
+```bash
+application-1  | 🎉 Data import process completed!
+application-1  | 📥 Data import complete.
+application-1  | 🚀 Starting Flask application...
+```
 📚 Project Overview
 This application showcases:
 Interactive movie dashboards 📽️
